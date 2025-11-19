@@ -577,6 +577,7 @@
 #define ENABLE_DRIVER_AHT2X						1
 #define ENABLE_I2C								1
 #define ENABLE_LITTLEFS							1
+#define ENABLE_DRIVER_MYTHERMO
 
 #else
 
